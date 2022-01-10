@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](Images/ImgProject.jpeg)
 
 This project is very simple, but it helped me understand Media Querie, more about pseudo-classes and I learned how to host a live website. By doing this project, I greatly increased my knowledge of HTML and CSS.
 
