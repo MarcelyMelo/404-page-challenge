@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot](Images/ImgProject.jpeg)
+![screenshot](img/img404notfound.jpg)
 
-This project is very simple, but it helped me understand Media Querie, more about pseudo-classes and I learned how to host a live website. By doing this project, I greatly increased my knowledge of HTML and CSS.
+This project is very simple, but it helped me understand Media Querie, more about pseudo-classes, flexbox and I learned how to host a live website. By doing this project, I greatly increased my knowledge of HTML and CSS.
 
 ### Built With
 
@@ -60,6 +60,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [This site helps me understand Media-Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [This site helps me understand pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+- [This site helps me understand and pratice flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## Contact
 
